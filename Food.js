@@ -6,5 +6,5 @@ class Food {
     this.name = name;
     this.price = price;
 }
-
+}
 export default Food;
