@@ -7,4 +7,4 @@ class Food {
     this.price = price;
 }
 
-export default Backpack;
+export default Food;
